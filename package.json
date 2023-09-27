@@ -1,0 +1,16 @@
+{
+  "name": "sprint2.2",
+  "version": "1.0.0",
+  "description": "Sprint2.2 Throttle",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Engels Patiarroyo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.7.0"
+  }
+}
